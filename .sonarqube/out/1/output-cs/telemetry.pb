@@ -1,0 +1,1 @@
+TR>D:\Jenkins_Projects\WebAppJenkins\WebAppTest\WebAppTest.csproj¢net8.0òCSharp12

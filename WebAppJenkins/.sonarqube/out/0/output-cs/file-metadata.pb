@@ -1,0 +1,9 @@
+n
+cD:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\WebAppJenkins.RazorAssemblyInfo.csutf-8i
+^D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\WebAppJenkins.AssemblyInfo.csutf-8z
+oD:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8k
+`D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\WebAppJenkins.GlobalUsings.g.csutf-8C
+:D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\Program.csutf-8P
+GD:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\Pages\Privacy.cshtml.csutf-8N
+ED:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\Pages\Index.cshtml.csutf-8N
+ED:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\Pages\Error.cshtml.csutf-8

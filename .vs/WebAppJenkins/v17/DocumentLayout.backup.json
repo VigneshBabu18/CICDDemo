@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Jenkins_Projects\\WebAppJenkins\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5C01C99-3447-4847-9ED4-ADB8C7FBF620}|WebAppTest\\WebAppTest.csproj|d:\\jenkins_projects\\webappjenkins\\webapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5C01C99-3447-4847-9ED4-ADB8C7FBF620}|WebAppTest\\WebAppTest.csproj|solutionrelative:webapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|solutionrelative:webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|solutionrelative:webappjenkins\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|solutionrelative:webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5C01C99-3447-4847-9ED4-ADB8C7FBF620}|WebAppTest\\WebAppTest.csproj|d:\\jenkins_projects\\webappjenkins\\webapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C01C99-3447-4847-9ED4-ADB8C7FBF620}|WebAppTest\\WebAppTest.csproj|solutionrelative:webapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebAppTest\\UnitTest1.cs",
-              "ToolTip": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppTest\\UnitTest1.cs*",
-              "RelativeToolTip": "WebAppTest\\UnitTest1.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppTest\\UnitTest1.cs",
+              "RelativeToolTip": "WebAppTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T05:17:30.802Z",
               "EditorCaption": ""
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebAppJenkins\\Pages\\_ViewImports.cshtml",

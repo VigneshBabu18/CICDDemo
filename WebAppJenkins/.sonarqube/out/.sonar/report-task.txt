@@ -1,0 +1,6 @@
+projectKey=FantasyWeb
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=FantasyWeb
+ceTaskId=738b7612-b3a5-4c41-9648-db7fa5280199
+ceTaskUrl=http://localhost:9000/api/ce/task?id=738b7612-b3a5-4c41-9648-db7fa5280199

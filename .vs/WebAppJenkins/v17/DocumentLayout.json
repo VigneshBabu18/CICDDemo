@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Jenkins_Projects\\WebAppJenkins\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|solutionrelative:webappjenkins\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|d:\\jenkins_projects\\webappjenkins\\webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14658698-EE18-4439-BFE3-6BAA59151A59}|WebAppJenkins\\WebAppJenkins.csproj|solutionrelative:webappjenkins\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,6 +49,27 @@
               "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAppJenkins\\Dockerfile",
+              "ToolTip": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
+              "RelativeToolTip": "WebAppJenkins\\Dockerfile",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:43:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
@@ -54,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebAppTest\\UnitTest1.cs",
@@ -62,12 +87,11 @@
               "RelativeToolTip": "WebAppTest\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:17:30.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:17:30.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppJenkins\\Pages\\Index.cshtml",
@@ -75,12 +99,11 @@
               "RelativeToolTip": "WebAppJenkins\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:28:03.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:28:03.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "WebAppJenkins\\Pages\\Error.cshtml",
@@ -88,12 +111,11 @@
               "RelativeToolTip": "WebAppJenkins\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:28:02.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:28:02.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebAppJenkins\\Pages\\_ViewStart.cshtml",
@@ -101,12 +123,11 @@
               "RelativeToolTip": "WebAppJenkins\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:28:02.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:28:02.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebAppJenkins\\Pages\\_ViewImports.cshtml",

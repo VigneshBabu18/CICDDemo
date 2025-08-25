@@ -26,7 +26,6 @@ D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\staticwebassets
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\staticwebassets.development.json
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\WebAppJenkins.dll
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\refint\WebAppJenkins.dll
 D:\Jenkins_Projects\WebAppJenkins\WebAppJenkins\obj\Debug\net8.0\WebAppJenkins.pdb
