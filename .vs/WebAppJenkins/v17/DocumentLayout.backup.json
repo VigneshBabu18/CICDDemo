@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
-              "RelativeDocumentMoniker": "WebAppJenkins\\Dockerfile",
-              "ToolTip": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
-              "RelativeToolTip": "WebAppJenkins\\Dockerfile",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-25T06:43:32.814Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -76,6 +63,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAppJenkins\\Dockerfile",
+              "ToolTip": "D:\\Jenkins_Projects\\WebAppJenkins\\WebAppJenkins\\Dockerfile",
+              "RelativeToolTip": "WebAppJenkins\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:43:32.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,8 +135,7 @@
               "RelativeToolTip": "WebAppJenkins\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:28:01.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:28:01.263Z"
             }
           ]
         },
