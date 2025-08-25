@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppJenkins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ce4a3e7aa2961f8182f5066323a2182f3d4ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppJenkins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppJenkins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
